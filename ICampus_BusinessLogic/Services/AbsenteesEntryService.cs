@@ -12,6 +12,7 @@ using System.Threading.Tasks;
 
 namespace ICampus_BusinessLogic.Services
 {
+
     public class AbsenteesEntryService : IAbsenteesEntryService
     {
         private readonly IGenericRepository<object> _repo;

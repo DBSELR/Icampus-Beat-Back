@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+**/.vs/
+
+# Build output
+bin/
+obj/
+**/bin/
+**/obj/
+
+# User files
+*.user
+*.suo
+
+# Database cache files
+*.db
+*.db-shm
+*.db-wal
+
+# Visual Studio workspace
+*.vsuo
+DocumentLayout.json
