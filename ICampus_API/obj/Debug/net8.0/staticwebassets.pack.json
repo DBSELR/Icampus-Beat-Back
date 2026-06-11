@@ -1,0 +1,121 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Icampus\\icampusback-main\\ICampus_API\\wwwroot\\Evaluation\\Key\\F110A_1_13032026131925.pdf",
+      "PackagePath": "staticwebassets\\Evaluation\\Key\\F110A_1_13032026131925.pdf"
+    },
+    {
+      "Id": "D:\\Icampus\\icampusback-main\\ICampus_API\\wwwroot\\Evaluation\\Key\\F110A_1_13032026131931.pdf",
+      "PackagePath": "staticwebassets\\Evaluation\\Key\\F110A_1_13032026131931.pdf"
+    },
+    {
+      "Id": "D:\\Icampus\\icampusback-main\\ICampus_API\\wwwroot\\Evaluation\\Key\\F110A_1_13032026132223.pdf",
+      "PackagePath": "staticwebassets\\Evaluation\\Key\\F110A_1_13032026132223.pdf"
+    },
+    {
+      "Id": "D:\\Icampus\\icampusback-main\\ICampus_API\\wwwroot\\Evaluation\\Key\\F110A_1_13032026132230.pdf",
+      "PackagePath": "staticwebassets\\Evaluation\\Key\\F110A_1_13032026132230.pdf"
+    },
+    {
+      "Id": "D:\\Icampus\\icampusback-main\\ICampus_API\\wwwroot\\Evaluation\\QuestionPaper\\F110A_1_13032026131925.pdf",
+      "PackagePath": "staticwebassets\\Evaluation\\QuestionPaper\\F110A_1_13032026131925.pdf"
+    },
+    {
+      "Id": "D:\\Icampus\\icampusback-main\\ICampus_API\\wwwroot\\Evaluation\\QuestionPaper\\F110A_1_13032026131931.pdf",
+      "PackagePath": "staticwebassets\\Evaluation\\QuestionPaper\\F110A_1_13032026131931.pdf"
+    },
+    {
+      "Id": "D:\\Icampus\\icampusback-main\\ICampus_API\\wwwroot\\Evaluation\\QuestionPaper\\F110A_1_13032026132223.pdf",
+      "PackagePath": "staticwebassets\\Evaluation\\QuestionPaper\\F110A_1_13032026132223.pdf"
+    },
+    {
+      "Id": "D:\\Icampus\\icampusback-main\\ICampus_API\\wwwroot\\Evaluation\\QuestionPaper\\F110A_1_13032026132230.pdf",
+      "PackagePath": "staticwebassets\\Evaluation\\QuestionPaper\\F110A_1_13032026132230.pdf"
+    },
+    {
+      "Id": "D:\\Icampus\\icampusback-main\\ICampus_API\\wwwroot\\StaffPhoto\\PDBS.jpg",
+      "PackagePath": "staticwebassets\\StaffPhoto\\PDBS.jpg"
+    },
+    {
+      "Id": "D:\\Icampus\\icampusback-main\\ICampus_API\\wwwroot\\StaffPhoto\\PEMP0653.jpg",
+      "PackagePath": "staticwebassets\\StaffPhoto\\PEMP0653.jpg"
+    },
+    {
+      "Id": "D:\\Icampus\\icampusback-main\\ICampus_API\\wwwroot\\StaffPhoto\\PEMP0654.jpg",
+      "PackagePath": "staticwebassets\\StaffPhoto\\PEMP0654.jpg"
+    },
+    {
+      "Id": "D:\\Icampus\\icampusback-main\\ICampus_API\\wwwroot\\StaffPhoto\\PFac123.jpg",
+      "PackagePath": "staticwebassets\\StaffPhoto\\PFac123.jpg"
+    },
+    {
+      "Id": "D:\\Icampus\\icampusback-main\\ICampus_API\\wwwroot\\StaffPhoto\\PTest1234.jpg",
+      "PackagePath": "staticwebassets\\StaffPhoto\\PTest1234.jpg"
+    },
+    {
+      "Id": "D:\\Icampus\\icampusback-main\\ICampus_API\\wwwroot\\StaffPhoto\\Pjest123.jpg",
+      "PackagePath": "staticwebassets\\StaffPhoto\\Pjest123.jpg"
+    },
+    {
+      "Id": "D:\\Icampus\\icampusback-main\\ICampus_API\\wwwroot\\StaffSign\\SDBS.jpg",
+      "PackagePath": "staticwebassets\\StaffSign\\SDBS.jpg"
+    },
+    {
+      "Id": "D:\\Icampus\\icampusback-main\\ICampus_API\\wwwroot\\StaffSign\\SEMP0653.jpg",
+      "PackagePath": "staticwebassets\\StaffSign\\SEMP0653.jpg"
+    },
+    {
+      "Id": "D:\\Icampus\\icampusback-main\\ICampus_API\\wwwroot\\StaffSign\\SEMP0654.jpg",
+      "PackagePath": "staticwebassets\\StaffSign\\SEMP0654.jpg"
+    },
+    {
+      "Id": "D:\\Icampus\\icampusback-main\\ICampus_API\\wwwroot\\StaffSign\\SFac123.jpg",
+      "PackagePath": "staticwebassets\\StaffSign\\SFac123.jpg"
+    },
+    {
+      "Id": "D:\\Icampus\\icampusback-main\\ICampus_API\\wwwroot\\StaffSign\\STest1234.jpg",
+      "PackagePath": "staticwebassets\\StaffSign\\STest1234.jpg"
+    },
+    {
+      "Id": "D:\\Icampus\\icampusback-main\\ICampus_API\\wwwroot\\StaffSign\\Sjest123.jpg",
+      "PackagePath": "staticwebassets\\StaffSign\\Sjest123.jpg"
+    },
+    {
+      "Id": "D:\\Icampus\\icampusback-main\\ICampus_API\\wwwroot\\StudentPhoto\\20671A0162.jpg",
+      "PackagePath": "staticwebassets\\StudentPhoto\\20671A0162.jpg"
+    },
+    {
+      "Id": "D:\\Icampus\\icampusback-main\\ICampus_API\\wwwroot\\StudentPhoto\\20pa1a05f3.jpg",
+      "PackagePath": "staticwebassets\\StudentPhoto\\20pa1a05f3.jpg"
+    },
+    {
+      "Id": "D:\\Icampus\\icampusback-main\\ICampus_API\\wwwroot\\StudentSign\\20671A0162.jpg",
+      "PackagePath": "staticwebassets\\StudentSign\\20671A0162.jpg"
+    },
+    {
+      "Id": "D:\\Icampus\\icampusback-main\\ICampus_API\\wwwroot\\StudentSign\\20pa1a05f3.jpg",
+      "PackagePath": "staticwebassets\\StudentSign\\20pa1a05f3.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ICampus_API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ICampus_API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ICampus_API.props",
+      "PackagePath": "build\\ICampus_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ICampus_API.props",
+      "PackagePath": "buildMultiTargeting\\ICampus_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ICampus_API.props",
+      "PackagePath": "buildTransitive\\ICampus_API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

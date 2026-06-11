@@ -1,0 +1,17 @@
+D:\Icampus\icampusback-main\ICampus_BusinessLogic\bin\Debug\net8.0\ICampus_BusinessLogic.deps.json
+D:\Icampus\icampusback-main\ICampus_BusinessLogic\bin\Debug\net8.0\ICampus_BusinessLogic.dll
+D:\Icampus\icampusback-main\ICampus_BusinessLogic\bin\Debug\net8.0\ICampus_BusinessLogic.pdb
+D:\Icampus\icampusback-main\ICampus_BusinessLogic\bin\Debug\net8.0\ICampus_DataAccessLayer.dll
+D:\Icampus\icampusback-main\ICampus_BusinessLogic\bin\Debug\net8.0\ICampus_Models.dll
+D:\Icampus\icampusback-main\ICampus_BusinessLogic\bin\Debug\net8.0\ICampus_DataAccessLayer.pdb
+D:\Icampus\icampusback-main\ICampus_BusinessLogic\bin\Debug\net8.0\ICampus_Models.pdb
+D:\Icampus\icampusback-main\ICampus_BusinessLogic\obj\Debug\net8.0\ICampus_BusinessLogic.csproj.AssemblyReference.cache
+D:\Icampus\icampusback-main\ICampus_BusinessLogic\obj\Debug\net8.0\ICampus_BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Icampus\icampusback-main\ICampus_BusinessLogic\obj\Debug\net8.0\ICampus_BusinessLogic.AssemblyInfoInputs.cache
+D:\Icampus\icampusback-main\ICampus_BusinessLogic\obj\Debug\net8.0\ICampus_BusinessLogic.AssemblyInfo.cs
+D:\Icampus\icampusback-main\ICampus_BusinessLogic\obj\Debug\net8.0\ICampus_BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Icampus\icampusback-main\ICampus_BusinessLogic\obj\Debug\net8.0\ICampus_.389D104F.Up2Date
+D:\Icampus\icampusback-main\ICampus_BusinessLogic\obj\Debug\net8.0\ICampus_BusinessLogic.dll
+D:\Icampus\icampusback-main\ICampus_BusinessLogic\obj\Debug\net8.0\refint\ICampus_BusinessLogic.dll
+D:\Icampus\icampusback-main\ICampus_BusinessLogic\obj\Debug\net8.0\ICampus_BusinessLogic.pdb
+D:\Icampus\icampusback-main\ICampus_BusinessLogic\obj\Debug\net8.0\ref\ICampus_BusinessLogic.dll

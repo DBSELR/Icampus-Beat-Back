@@ -1,0 +1,15 @@
+D:\Icampus\icampusback-main\ICampus_DataAccessLayer\bin\Debug\net8.0\ICampus_DataAccessLayer.deps.json
+D:\Icampus\icampusback-main\ICampus_DataAccessLayer\bin\Debug\net8.0\ICampus_DataAccessLayer.dll
+D:\Icampus\icampusback-main\ICampus_DataAccessLayer\bin\Debug\net8.0\ICampus_DataAccessLayer.pdb
+D:\Icampus\icampusback-main\ICampus_DataAccessLayer\bin\Debug\net8.0\ICampus_Models.dll
+D:\Icampus\icampusback-main\ICampus_DataAccessLayer\bin\Debug\net8.0\ICampus_Models.pdb
+D:\Icampus\icampusback-main\ICampus_DataAccessLayer\obj\Debug\net8.0\ICampus_DataAccessLayer.csproj.AssemblyReference.cache
+D:\Icampus\icampusback-main\ICampus_DataAccessLayer\obj\Debug\net8.0\ICampus_DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Icampus\icampusback-main\ICampus_DataAccessLayer\obj\Debug\net8.0\ICampus_DataAccessLayer.AssemblyInfoInputs.cache
+D:\Icampus\icampusback-main\ICampus_DataAccessLayer\obj\Debug\net8.0\ICampus_DataAccessLayer.AssemblyInfo.cs
+D:\Icampus\icampusback-main\ICampus_DataAccessLayer\obj\Debug\net8.0\ICampus_DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Icampus\icampusback-main\ICampus_DataAccessLayer\obj\Debug\net8.0\ICampus_.C9281AFC.Up2Date
+D:\Icampus\icampusback-main\ICampus_DataAccessLayer\obj\Debug\net8.0\ICampus_DataAccessLayer.dll
+D:\Icampus\icampusback-main\ICampus_DataAccessLayer\obj\Debug\net8.0\refint\ICampus_DataAccessLayer.dll
+D:\Icampus\icampusback-main\ICampus_DataAccessLayer\obj\Debug\net8.0\ICampus_DataAccessLayer.pdb
+D:\Icampus\icampusback-main\ICampus_DataAccessLayer\obj\Debug\net8.0\ref\ICampus_DataAccessLayer.dll
