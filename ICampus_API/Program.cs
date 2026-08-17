@@ -1,4 +1,4 @@
-﻿using DocumentFormat.OpenXml.Office2016.Drawing.ChartDrawing;
+using DocumentFormat.OpenXml.Office2016.Drawing.ChartDrawing;
 using ICampus_BusinessLogic.Interfaces;
 using ICampus_BusinessLogic.Services;
 using ICampus_DataAccessLayer.Data;
@@ -30,20 +30,26 @@ builder.Services.AddDbContext<ICampusDbContext>(options =>
 // =========================
 var corsSettings = builder.Configuration.GetSection("CorsSettings");
 var allowedOrigins = corsSettings.GetSection("AllowedOrigins").Get<string[]>() 
-    ?? new[] { "http://localhost:3000", "http://localhost:3001","http://localhost:3002" }; // Fallback to localhost:3000 if not configured
+    ?? new[] { 
+        "http://localhost:3000", 
+        "http://localhost:3001",
+        "http://localhost:3002",
+        "https://localhost:44396",
+        "http://localhost:48424",
+        "https://icampus.dbasesolutions.in",
+        "http://icampus.dbasesolutions.in"
+    };
 
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowReactApp", builder =>
+    options.AddPolicy("AllowReactApp", policy =>
     {
-        builder
-            .WithOrigins(
-                "http://localhost:3000",
-                "http://localhost:3001",
-                "http://localhost:3002"
-            )
+        policy
+            .WithOrigins(allowedOrigins)
+            .SetIsOriginAllowed(_ => true)
             .AllowAnyHeader()
-            .AllowAnyMethod();
+            .AllowAnyMethod()
+            .AllowCredentials();
     });
 });
 
@@ -279,6 +285,8 @@ app.UseSwaggerUI(c =>
 app.UseStaticFiles();
 
 app.UseHttpsRedirection();
+
+app.UseRouting();
 
 // 🔥 CORS MUST BE BEFORE Auth & MapControllers
 app.UseCors("AllowReactApp");
