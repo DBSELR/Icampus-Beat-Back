@@ -91,7 +91,9 @@ namespace ICampus_BusinessLogic.Services
                     RegNo  = d?["RegNo"]?.ToString()  ?? string.Empty,
                     GRP    = d?["grp"]?.ToString()    ?? string.Empty,
                     PCODE  = d?["PCODE"]?.ToString()  ?? string.Empty,
-                    PMARKS = d?["PMARKS"] != null && d["PMARKS"] != DBNull.Value ? (int?)Convert.ToInt32(d["PMARKS"]) : null,
+                   // PMARKS = d?["PMARKS"] != null && d["PMARKS"] != DBNull.Value ? (int?)Convert.ToInt32(d["PMARKS"]) : null,
+                   PMARKS = d["PMARKS"] != DBNull.Value? d["PMARKS"].ToString(): null,
+
                     pMax   = d?["pMax"]   != null && d["pMax"]   != DBNull.Value ? Convert.ToInt32(d["pMax"])   : 0
                 };
             });

@@ -26,8 +26,10 @@ namespace ICampus_BusinessLogic.Services
         /// </summary>
         public async Task<IEnumerable<object>> LoadBatchAsync(string course, string regulation)
         {
-            var sql = "SELECT DISTINCT EXAMMY, AEXAMID FROM TBL_EXAMS " +
-                      "WHERE COURSE=@Course AND REGULATION=@Regulation ORDER BY AEXAMID DESC";
+            //var sql = "SELECT DISTINCT EXAMMY, AEXAMID FROM TBL_EXAMS " +
+            //          "WHERE COURSE=@Course AND REGULATION=@Regulation ORDER BY AEXAMID DESC";
+            var sql = "SELECT  DISTINCT REGU,'20' + REGU + '-20' + CAST(CAST(REGU AS INT) + (MAXSEM/2) AS VARCHAR) AS BATCH FROM TBL_COURSE   ";
+                      
 
             var ps = new[]
             {

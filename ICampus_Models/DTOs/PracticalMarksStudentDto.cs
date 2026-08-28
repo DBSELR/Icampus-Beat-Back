@@ -10,7 +10,7 @@ namespace ICampus_Models.DTOs
         public string RegNo { get; set; } = string.Empty;
         public string GRP { get; set; } = string.Empty;
         public string PCODE { get; set; } = string.Empty;
-        public int? PMARKS { get; set; }   // nullable — null means not yet entered
+        public string? PMARKS { get; set; }   // nullable — null means not yet entered
         public int pMax { get; set; }      // max practical marks (PMAX from tbl_Pap)
     }
 }
