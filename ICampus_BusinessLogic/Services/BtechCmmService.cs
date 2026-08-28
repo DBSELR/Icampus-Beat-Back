@@ -81,7 +81,7 @@ namespace ICampus_BusinessLogic.Services
             var reguUpper = (regu ?? string.Empty).ToUpper();
             // @RLE: 'REG' = regular students only, '' = lateral students only (B.TECH only)
             var rle = isLateral ? string.Empty : "REG";
-
+            int Rbatch = int.Parse(batch);
             string sql;
             SqlParameter[] parameters;
 
@@ -97,7 +97,8 @@ namespace ICampus_BusinessLogic.Services
                     "@Regulation", "@Course", "@Regu", "@GRP", "@ExamMY", "@REGNO", "@RLE");
                 parameters = BuildParams(course, examMY, regu, branch, regNo, rle);
             }
-            else if (reguUpper == "R18")
+            //else if (reguUpper == "R18")
+            else if (Rbatch>=18)
             {
                 sql = StoredProcSql.Exec(StoredProcedures.SP_CMM_R18,
                     "@Regulation", "@Course", "@Regu", "@GRP", "@ExamMY", "@REGNO", "@RLE");

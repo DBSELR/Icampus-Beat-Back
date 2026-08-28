@@ -72,7 +72,7 @@ namespace ICampus_BusinessLogic.Services
             string sql;
 
             var reguUpper = (regu ?? string.Empty).ToUpper();
-
+            int Rbatch = int.Parse(batch);
             // All 4 SPs share the same 6-param signature:
             // @REGULATION, @Course, @Regu(numeric), @GRP, @Exammy, @REGNO
             StoredProcedures spName;
@@ -80,7 +80,8 @@ namespace ICampus_BusinessLogic.Services
                 spName = StoredProcedures.proc_pc_rep_AddGracing_R16;
             else if (isGracing)
                 spName = StoredProcedures.proc_pc_rep_AddGracing;
-            else if (reguUpper == "R18")
+            // else if (reguUpper == "R18")
+           else if(Rbatch>=18)
                 spName = StoredProcedures.proc_pc_rep_R18;
             else
                 spName = StoredProcedures.proc_pc_rep_AllCourse;
